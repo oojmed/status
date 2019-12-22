@@ -8,22 +8,28 @@
         "description": "api.txttosl.com"
       },
       "txttosl-marketing": {
-        "title": "TxtToSL Marketing (txttosl.com)"
+        "title": "TxtToSL Marketing",
+        "description": "txttosl.com"
       },
       "txttosl-app": {
-        "title": "TxtToSL App (app.txttosl.com)"
+        "title": "TxtToSL App",
+        "description": "app.txttosl.com"
       },
       "txttosl-docs": {
-        "title": "TxtToSL Docs (docs.txttosl.com)"
+        "title": "TxtToSL Docs",
+        "description": "docs.txttosl.com"
       },
       "oojmed": {
-        "title": "Oojmed (oojmed.com)"
+        "title": "Oojmed",
+        "description": "oojmed.com"
       },
       "oojmed-blog": {
-        "title": "Oojmed Blog (blog.oojmed.com)"
+        "title": "Oojmed Blog",
+        "description": "blog.oojmed.com"
       },
       "oojmed-status": {
-        "title": "Oojmed Status (status.oojmed.com)"
+        "title": "Oojmed Status",
+        "description": "status.oojmed.com"
       }
     }
   }
