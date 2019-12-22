@@ -1,6 +1,7 @@
 {
   "title": "Oojmed Status",
   "description": "The status for Oojmed, a non-profit software development group.",
+
   "systems": {
     "items": {
       "txttosl-api": {
@@ -32,5 +33,9 @@
         "description": "status.oojmed.com"
       }
     }
+  },
+
+  "labels": {
+    "privacy": "Privacy"
   }
 }
