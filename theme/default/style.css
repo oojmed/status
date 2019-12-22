@@ -1,0 +1,31 @@
+:root {
+  --transparent: transparent; /* Last incident left color */
+  --black: #f5f5f5; /* Incident content, date titles */
+  --grey-darkest: #ffffff; /* Titles, buttons */
+  --grey-darker: #f1f1f1; /* Maintenance, main / most text */
+  --grey-dark: #7f7f7f; /* Powered by text */
+  --grey: #5f5f5f; /* Button outline on hover */
+  --grey-light: #3f3f3f; /* Section, incident, button, outlines */
+  --grey-lighter: #3f3f3f; /* Others */
+  --grey-lightest: #1f1f1f; /* Page background */
+  --white: #2f2f2f; /* Section, incident icon background */
+}
+
+.global-status.under-maintenance { /* Make maintenance global / head / top status a seperate color / variable than default */
+  background-color: var(--white);
+}
+
+.global-status { /* Make global / head / top status text white */
+  color: var(--black);
+}
+
+@media (min-width: 768px) { /* Extend the width of the container to be larger */
+  .md\:w-2\/3 {
+    width: 95%;
+  }
+}
+
+.tooltip { /* Stop description popup being inverted */
+  background-color: var(--white);
+  color: var(--grey-darkest);
+}

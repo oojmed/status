@@ -1,0 +1,30 @@
+{
+  "title": "Oojmed Status",
+  "description": "The status for Oojmed, a non-profit software development group.",
+  "systems": {
+    "items": {
+      "txttosl-api": {
+        "title": "TxtToSL API",
+        "description": "api.txttosl.com"
+      },
+      "txttosl-marketing": {
+        "title": "TxtToSL Marketing (txttosl.com)"
+      },
+      "txttosl-app": {
+        "title": "TxtToSL App (app.txttosl.com)"
+      },
+      "txttosl-docs": {
+        "title": "TxtToSL Docs (docs.txttosl.com)"
+      },
+      "oojmed": {
+        "title": "Oojmed (oojmed.com)"
+      },
+      "oojmed-blog": {
+        "title": "Oojmed Blog (blog.oojmed.com)"
+      },
+      "oojmed-status": {
+        "title": "Oojmed Status (status.oojmed.com)"
+      }
+    }
+  }
+}
