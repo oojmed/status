@@ -4,7 +4,7 @@ date: '2020-01-25T13:30:00.000Z'
 severity: under-maintenance
 affectedsystems:
   - txttosl-api
-resolved: false
+resolved: true
 scheduled: '2020-01-25T14:00:00.000Z'
 duration: '10'
 ---
